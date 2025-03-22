@@ -1,16 +1,19 @@
-## Hi there 👋
+# Zerintac - Veb Tərtibatçısı
 
-<!--
-**Zerintac/Zerintac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Xülasə
+Mən, veb inkişaf sahəsində təcrübə qazanan və müasir texnologiyalarla maraqlanan bir tərtibatçıyam. Frontend və backend sahələrində çalışıram və JavaScript, HTML, CSS, Bootstrap kimi texnologiyalarla təcrübə toplamışam.
 
-Here are some ideas to get you started:
+## Bacarıqlar
+- *HTML, CSS, JavaScript, Bootstrap*
+- *Veb Dizaynı (Figma)*
+- *Frontend & Backend Əsasları*
+- *Responsive Veb Dizaynı*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Layihələr
+- *Dolcino Veb Saytı Klonu* - HTML, CSS, JavaScript istifadə edərək responsive dizayn.
+- *BWA-Gear Dizaynı* - Figma istifadə edərək hazırlanmış interfeys dizaynı.
+- *JavaScript Tətbiqləri* - Hesab makinesi, saat, Fibonacci, rəng dəyişdirən tətbiqlər.
+
+## Əlaqə
+- *E-poçt:* zerintacabbasova98@gmail.com
+- *GitHub:* [github.com/Zerintac](https://github.com/Zerintac)
